@@ -13,4 +13,10 @@ Materials are located [here](https://docs.google.com/document/d/1ckYpi6hcRkaBUEk
 - [Recursion](123-exercise/main.go)
 - [Pointer Address](127-exercise/main.go)
 - [Struct Pointer](128-exercise/main.go)
+- [Goroutines and WaitGroup](148-exercise/main.go)
+- [Method Sets](149-exercise/main.go)
+- [Race Condition in Goroutines](150-exercise/main.go)
+- [Mutex](151-exercise/main.go)
+- [Atom](152-exercise/main.go)
+- [Runtime Stuff](153-exercise/main.go)
 
