@@ -36,3 +36,9 @@ Materials are located [here](https://docs.google.com/document/d/1ckYpi6hcRkaBUEk
   - [Message formatting](177-exercise/main.go)
   - [Custom types](178-exercise/main.go)
   - [Custom types with additional data](179-exercise/main.go)
+- [Package](186-exercise/main.go)
+
+## Links
+
+https://godoc.org/  
+http://www.golang-book.com/
